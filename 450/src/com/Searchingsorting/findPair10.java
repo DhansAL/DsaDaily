@@ -10,7 +10,7 @@ public class findPair10 {
 //        System.out.println(Arrays.toString(returnX(arr,78)));
         System.out.println(findPair(arr,78));
     }
-    //O(N^2) BRUTE - I returned pair as array although question asked for boolean return
+    //O(N^2) BRUTE -  returned pair as array although question asked for boolean return
     static int[] returnX (int[] arr, int diff){
         int[] ans = new int[2];
 
@@ -32,7 +32,7 @@ public class findPair10 {
     //Optimized answer expected time complexity O(NlogN)
     static boolean findPair(int[] arr, int diff){
         // 1. sort the array to apply binary search
-        Arrays.sort(arr);
+        Arrays.sort(arr); //internal implementation - dual pivot quicksort TC - O(NlogN)
         boolean ans = false;
         //2. apply binary search from i+1
         for (int i = 0; i < arr.length-1 ; i++) {
