@@ -1,6 +1,5 @@
 package linkedLists.quests;
 
-import linkedLists.LL;
 
 // remove duplicates
 public class q1 {

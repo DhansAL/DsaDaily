@@ -2,7 +2,7 @@ package linkedLists;
 
 public class Main {
     public static void main(String[] args) {
-        LL list  = new LL();
+LL list  = new LL();
         list.insertFirst(7);
         list.insertFirst(3);
         list.insertFirst(5);
