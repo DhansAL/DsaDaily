@@ -4,7 +4,7 @@
 
 **code in java and js**
 
-#commit key 
+# commit key 
 
 > ss 450 searcharr 21 
 
@@ -13,7 +13,7 @@
 - searcharr - question name.
 - 21 - s.no in question DB
 
-##Topics covered 
+ ## Topics covered 
 
 - [ ] arrays 
 - [ ] strings
