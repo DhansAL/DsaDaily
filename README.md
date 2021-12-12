@@ -4,14 +4,29 @@
 
 **code in java and js**
 
-#### topic - **current**
+#commit key 
+> ss 450 searcharr 21 
+> 
+- ss - current algorithm
+- 450 - 450(java) **/** 450js (js implementation)
+- searcharr - question name.
+- 21 - s.no in question DB
 
-#### RECURSION
+##Topics covered 
 
-#### topic list
+- [ ] arrays 
+- [ ] strings
+- [ ] **searching** 
+- -  [ ] linear search
+- -  [ ] binary search
+- -  [ ] 2D binary search
+- -  [ ] Modified binary search
+- [ ] **sorting**
+- -  [ ] Insertion Sort
+- -  [ ] selection sort
+- -  [ ] bubble sort
+- -  [ ] cyclic sort
 
-1. arrays - [o]
-2. strings - [o]
-3. recursion - [x]
-   1. recursion in arrays
-4. LL DLL CLL - [x]
+- [ ] **recursion** 
+- - [ ] recursion in arrays
+- [ ] LL DLL CLL 
